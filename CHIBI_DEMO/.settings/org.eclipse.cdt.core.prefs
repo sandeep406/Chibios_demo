@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/0.114656749/PATH/delimiter=;
+environment/project/0.114656749/PATH/operation=replace
+environment/project/0.114656749/PATH/value=C\:/Program Files/Java/jre1.8.0_144/bin/server;C\:/Program Files/Java/jre1.8.0_144/bin;C\:/Program Files/Java/jre1.8.0_144/lib/amd64;C\:\\Program Files (x86)\\Common Files\\Siemens\\Sqlany;C\:\\Program Files (x86)\\Siemens\\Step7\\S7bin;C\:\\Program Files\\Common Files\\Siemens\\Automation\\Simatic OAM\\bin;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\windows\\system32;C\:\\Program Files\\Java\\jdk1.8.0_144\\bin;C\:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility;C\:\\MinGW\\bin;C\:\\msys\\1.0\\bin;C\:\\Program Files (x86)\\Skype\\Phone\\;C\:\\softwares(Sandy)\\MPLAB C32 Suite\\bin;C\:\\Program Files (x86)\\PKWARE\\pkzipc;E\:\\Downloads\\GREENBEE\\eclipse;C\:\\Program Files\\Java\\jre1.8.0_144\\bin;C\:\\green_b_tools\\GNUARMEmbedded\\482013q4\\bin;C\:\\CodeSourcery\\bin
+environment/project/0.114656749/append=true
+environment/project/0.114656749/appendContributed=true

@@ -1,0 +1,116 @@
+ARM GAS  C:\Users\SANDEE~1\AppData\Local\Temp\ccZP0Ytu.s 			page 1
+
+
+   1              		.cpu cortex-m4
+   2              		.eabi_attribute 27, 1
+   3              		.eabi_attribute 28, 1
+   4              		.eabi_attribute 20, 1
+   5              		.eabi_attribute 21, 1
+   6              		.eabi_attribute 23, 3
+   7              		.eabi_attribute 24, 1
+   8              		.eabi_attribute 25, 1
+   9              		.eabi_attribute 26, 1
+  10              		.eabi_attribute 30, 2
+  11              		.eabi_attribute 34, 1
+  12              		.eabi_attribute 18, 4
+  13              		.file	"chcore.c"
+  14              		.text
+  15              	.Ltext0:
+  16              		.section	.gnu.lto_.profile.bfe24266,"",%progbits
+  17 0000 789C6365 		.ascii	"x\234ce`b`d\000\002\000\000I\000\011"
+  17      60626064 
+  17      00020000 
+  17      490009
+  18              		.text
+  19              		.section	.gnu.lto_.icf.bfe24266,"",%progbits
+  20 0000 789C6365 		.ascii	"x\234ce`\002Bd\000\000\000\250\000\012"
+  20      60024264 
+  20      000000A8 
+  20      000A
+  21              		.text
+  22              		.section	.gnu.lto_.inline.bfe24266,"",%progbits
+  23 0000 789C6365 		.ascii	"x\234ce`\002Bd\000\000\000\250\000\012"
+  23      60024264 
+  23      000000A8 
+  23      000A
+  24              		.text
+  25              		.section	.gnu.lto_.pureconst.bfe24266,"",%progbits
+  26 0000 789C6365 		.ascii	"x\234ce`b`d\000\002\000\000I\000\011"
+  26      60626064 
+  26      00020000 
+  26      490009
+  27              		.text
+  28              		.section	.gnu.lto_.symbol_nodes.bfe24266,"",%progbits
+  29 0000 789C6365 		.ascii	"x\234ce`\002B\020\000\000\000X\000\012"
+  29      60024210 
+  29      00000058 
+  29      000A
+  30              		.text
+  31              		.section	.gnu.lto_.refs.bfe24266,"",%progbits
+  32 0000 789C6365 		.ascii	"x\234ce`b`d\000\002\000\000I\000\011"
+  32      60626064 
+  32      00020000 
+  32      490009
+  33              		.text
+  34              		.section	.gnu.lto_.decls.bfe24266,"",%progbits
+  35 0000 789C6365 		.ascii	"x\234ce`b\000\001F V\001\342\377@\000b\257e \000\000"
+  35      60620001 
+  35      46205601 
+  35      E2FF4000 
+  35      62AF6520 
+ARM GAS  C:\Users\SANDEE~1\AppData\Local\Temp\ccZP0Ytu.s 			page 2
+
+
+  36 0016 BC1D04D7 		.ascii	"\274\035\004\327"
+  37              		.text
+  38              		.section	.gnu.lto_.symtab.bfe24266,"",%progbits
+  39              		.text
+  40              		.section	.gnu.lto_.opts,"",%progbits
+  41 0000 272D666D 		.ascii	"'-fmath-errno' '-fsigned-zeros' '-ftrapping-math' '"
+  41      6174682D 
+  41      6572726E 
+  41      6F272027 
+  41      2D667369 
+  42 0033 2D666E6F 		.ascii	"-fno-trapv' '-fno-openmp' '-fno-openacc' '-mcpu=cor"
+  42      2D747261 
+  42      70762720 
+  42      272D666E 
+  42      6F2D6F70 
+  43 0066 7465782D 		.ascii	"tex-m4' '-mfloat-abi=hard' '-mfpu=fpv4-sp-d16' '-mn"
+  43      6D342720 
+  43      272D6D66 
+  43      6C6F6174 
+  43      2D616269 
+  44 0099 6F2D7468 		.ascii	"o-thumb-interwork' '-mthumb' '-ggdb' '-O2' '-fomit-"
+  44      756D622D 
+  44      696E7465 
+  44      72776F72 
+  44      6B272027 
+  45 00cc 6672616D 		.ascii	"frame-pointer' '-falign-functions=16' '-ffunction-s"
+  45      652D706F 
+  45      696E7465 
+  45      72272027 
+  45      2D66616C 
+  46 00ff 65637469 		.ascii	"ections' '-fdata-sections' '-fno-common' '-flto' '-"
+  46      6F6E7327 
+  46      20272D66 
+  46      64617461 
+  46      2D736563 
+  47 0132 6673696E 		.ascii	"fsingle-precision-constant'\000"
+  47      676C652D 
+  47      70726563 
+  47      6973696F 
+  47      6E2D636F 
+  48              		.text
+  49              		.comm	__gnu_lto_v1,1,1
+  50              		.comm	__gnu_lto_slim,1,1
+  51              		.ident	"GCC: (GNU Tools for ARM Embedded Processors 6-2017-q2-update) 6.3.1 20170620 (release) [AR
+ARM GAS  C:\Users\SANDEE~1\AppData\Local\Temp\ccZP0Ytu.s 			page 3
+
+
+DEFINED SYMBOLS
+                            *ABS*:00000000 chcore.c
+                            *COM*:00000001 __gnu_lto_v1
+                            *COM*:00000001 __gnu_lto_slim
+
+NO UNDEFINED SYMBOLS
